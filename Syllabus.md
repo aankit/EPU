@@ -1,6 +1,10 @@
 Syllabus
+[More Professional Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013-All.md)
 
-6:00 - 6:30pm: Introductions - Each other, what is Java (real world uses)
+Introductions
+-------------
+- Introductions to each other
+- What is Java, What is Processing?
 
 Sample Projects:
 - [Jer Thorp - 9/11 Memorial Algorithm](http://blog.blprnt.com/blog/blprnt/all-the-names)
