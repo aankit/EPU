@@ -17,14 +17,18 @@ Programming is About Data!
 - (x,y) How does the computer see it?
 - What the computer does and does not know?
 - What are all the types of data that the computer understands?
+- Guess the type of variable...
+- Global & Local variable...
+- Initialize the vairable...
 
 Let's make a few shapes on the screen...
 
 Programming is an Overgrown way to Talk to a Superfast Calculator
 -----------------------------------------------------------------
 - What is framerate?
+- What is setup & draw?
+- What are comments?
 - What are loops?
-- Modulo????
 
 Let's make the balls move...
 
@@ -32,6 +36,7 @@ Programming ~ Policy
 --------------------
 - Computers obey rules, make smart ones!
 - If statements
+- Modulo????
 
 Let's make the balls bounce...
 
@@ -45,8 +50,8 @@ How can we make lots balls?!?!
 
 Programs Can talk to each other
 -------------------------------
-- Twitter
 - NYT
 - Excel
+- Twitter
 
 
