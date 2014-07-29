@@ -4,7 +4,13 @@ Introductions
 -------------
 - Introductions to each other
 - What is Python? (Interpreted vs. Compiled)
+- Difference between 2.7 and 3.0
 - What is it used for?
+
+Resources
+---------
+- [Learn Python the Hard Way by Zed Shaw](http://learnpythonthehardway.org/)
+- [Python Documentation, seriously this stuff is awesome](https://docs.python.org/2.7/)
 
 Examples
 -------------
@@ -21,6 +27,9 @@ Procedural Poetry Intro
 Python as a calculator
 ----------------------
 - Open the Python Interpreter
+- Using the Terminal/Command Prompt
+	- cd
+	- ls or 'dir' (not be confused with dir later on)
 - Simple example - Are you getting paid the right amount?
 	- Variables
 	- Basic Data Types
